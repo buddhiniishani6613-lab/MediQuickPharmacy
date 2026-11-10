@@ -1,4 +1,4 @@
-# MediQuick Pharmacy 💊
+# MediQuick Pharmacy 
 
 **MediQuick Pharmacy** is a web-based Online Pharmacy Management System developed to provide convenient and accessible pharmacy services.
 
